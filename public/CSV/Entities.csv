@@ -1,0 +1,19 @@
+Vendor/Party Name,Vendor Sub-type,Vendor/Party Status,PEER Flag,Address Line 1,Address City,Address State/Province,Address Zip,Country,HCP?
+Alok Raj,Account,Approved,No,098  Park Avenue,Delhi,Delhi,456764,India,No
+Mihir Sen,Account,Not Approved,No,56  Ranimdranath Street,Paris,Paris,235335,Italy,No
+Raj Gupta,Account,Approved,No,89 Random Place,London,Landon,355256,England,No
+Abhishek Gupta,Account,Approved,No,987 City Road,Singapore,Singapore,463246,Malasiya,No
+Shekhar Kumar ,Account,Approved,No,101 Akbar Street,Mumbai,Maharastra,253536,India,No
+Saurav Kumar,Account,Approved,No,3 St Lusis Road,Bankok,Bankok,356725,Thailand,No
+Raj Kesari,Customer,Approved,No,67 Random Street,Kolkata,Kolkata,245677,India,No
+Adarsh Kumar,Customer,Not Approved,No,4 Rajendra Nagar,Chennai,Chennai,547858,India,No
+R N Shivani,Customer,Approved,No,009 James bond road,Kabul,Kabul,589635,Afganistan,No
+Suman Gupta ,Customer,Not Approved,No,999 Aqueous Street,Pune,Maharastra,214785,India,No
+Subhash Chandra,Customer,Approved,No,675 Nathuram Nagar,Chandhigarh,Hariyana,223311,India,No
+Rani Kumari,Customer,Not Approved,No,Main Road Lagpat Nagar,Kota,Rajesthan,225588,India,No
+Virat Kohli,Vendor,Approved,No,896 City Lane ,Raipur,Chattisgarh,555448,India,No
+Sachin Tendulkar,Vendor,Not Approved,No,546 Margin Villa,California,CA,579965,United States,No
+Satya Patel,Vendor,Not Approved,No,378 Tesla Street,New Yaok,New York,256874,United States,No
+Sujeet Kumar,Vendor,Not Approved,No,999 Micro Park,Congo,Congo Region,444588,Africa,No
+Puneet Gupta,Vendor,Approved,No,075 Lalpur Chowk,Patna,Bihar,547784,India,No
+Sanju Raj,Vendor,Not Approved,No,995 Sujata Chowk,Hazaribagh,Jharkhand,669965,India,No
